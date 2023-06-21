@@ -1,0 +1,17 @@
+body {
+    background-color: cornflowerblue;
+}
+
+#score {
+    font-size: 25px;
+    margin-left: 3px;
+}
+
+#timer {
+    float: right;
+    margin-right: 3px;
+}
+
+#sketchdrawn {
+    color: darkcyan;
+}
