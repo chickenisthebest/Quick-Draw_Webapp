@@ -4,14 +4,24 @@ body {
 
 #score {
     font-size: 25px;
-    margin-left: 3px;
+    margin-left: 1px;
 }
 
 #timer {
     float: right;
-    margin-right: 3px;
+    margin-right: 30px;
+    font-size: 25px;
 }
 
 #sketchdrawn {
     color: darkcyan;
+    font-size: 35px;
+}
+
+#confidence {
+    font-size: 30px;
+}
+
+#sketchguess {
+    font-size: 30px;
 }
